@@ -70,6 +70,7 @@ function removeItemFromCart(event) {
   renderCart();  // TODO: Re-draw the cart table
 
 }
-
+// 
 // This will initialize the page and draw the cart on screen
 renderCart();
+
